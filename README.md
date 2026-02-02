@@ -2,7 +2,7 @@
 
 I'm Lucas, a high school student specializing in Systems Development at COLTEC-UFMG, a technical school linked to the UFMG. 
 
-I am currently an intern at an early-stage startup, working as an AI & Workflow Automation Specialist.
+I am currently an intern at an startup, working as an AI & Workflow Automation Specialist.
 
 My work focuses on software development and automation. 
 
